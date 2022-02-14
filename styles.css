@@ -1,7 +1,10 @@
 .header {
   width: 100%;
-  padding:60px 0;
-  text-align: center;
-  background-color: #182945;
-  color: #182945;
+  height: 64px;
+
+  background: #182945;
+  color: white;
+}
+body {
+    background-color: white;
 }
