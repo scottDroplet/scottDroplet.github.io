@@ -1,9 +1,9 @@
 .header {
   width: 100%;
   height: 64px;
-
   background: #182945;
   color: white;
+  vertical-align: middle;
 }
 body {
     background-color: white;
